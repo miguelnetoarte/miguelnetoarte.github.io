@@ -1,2 +1,2 @@
-# miguelneto.github.io
-https://miguelneto.github.io
+# miguelnetoarte.github.io
+https://miguelnetoarte.github.io
